@@ -1,2 +1,16 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+public class Main {
+    public static void main(String[] args) {
+
+        double sayi = 3152;
+        int sayı = 31;
+        String sehir = "BURSA";
+        char karakter = 'B';
+
+        boolean doğrumu=false;
+        boolean dogrumu=true;
+if (dogrumu==true) {
+
+}
+
+    }
+}
